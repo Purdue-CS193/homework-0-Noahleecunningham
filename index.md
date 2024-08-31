@@ -5,6 +5,4 @@ Things I like in CS193
 -  I like that it's an easy GPA boost while also being helpful
 -  I like the magic word system
 -  Finally, I like that it's a 30 minute walk from my dorm
-remote_theme: pages-themes/dinky@v0.2.0
-plugins:
-- jekyll-remote-theme
+
